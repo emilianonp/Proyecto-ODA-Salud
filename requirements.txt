@@ -1,0 +1,12 @@
+fastapi
+pydantic
+uvicorn
+openai
+pdfplumber
+pytesseract
+Pillow
+faiss-cpu
+streamlit
+requests
+openpyxl
+numpy
